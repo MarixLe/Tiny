@@ -2,7 +2,7 @@
  * tinyweb.cc
  *
  *  Created on: Dec 11, 2012
- *      Author: suntus
+ *  
  *  主程序流程
  *      1.打开系统日志,设置成静态
  *      2.初始化记时器，记录系统运行时间
